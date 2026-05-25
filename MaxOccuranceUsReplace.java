@@ -2,7 +2,7 @@ public class MaxOccuranceUsReplace{
     public static void main(String[] args) {
         String s1="abbcccdddd";
         char maxChar=' ';
-        int maxCount=0;
+        int maxCount=0; 
         while(s1.length()>0)
         {
             char ch=s1.charAt(0);
